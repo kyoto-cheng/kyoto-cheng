@@ -18,12 +18,15 @@
 - [Overview of Building a Merchant Name Cleaning Engine with SequenceMatcher and spaCy](https://towardsdatascience.com/an-overview-of-building-a-merchant-name-cleaning-engine-with-sequencematcher-and-spacy-9d8138b9aace)
 - [Quantum Physics Word Cloud from 1994 to 2009](https://towardsdatascience.com/lets-generate-a-quantum-physics-word-cloud-from-1994-to-2009-d53ee1bf4825)
 
-## 🧗🏻 My Learning Achievements: 
+## 🧗🏻 My Learning Achievements & Project Highlights: 
 - [Udacity SQL Nanodegree](https://graduation.udacity.com/confirm/GAFFAGZP)
   - Project-1: Created a report for the executive team on the topic of global & country-level deforestation by writing complex and advanced SQL queries. 
   - Project-2: Investigated a poorly designed database and re-designed a new, normalised and performant database and migrated over data from the previous database.  
 - [Udacity Data Visualisation Nanodegree](https://graduation.udacity.com/confirm/AD44QHWJ)
+  - Project-1: Designed a Tableau dashboard which shows YoY performance in customer segmentation with different KPIs (Revenue, Profit, Profit ratio, etc).
+  - Project-2: Created an animated data story and added an audio track for it to become a narrated Flourish story. 
 - [Udacity NLP Nanodegree](https://graduation.udacity.com/confirm/YSHK6MDV)
+  - Project-1:
 - [Udacity Data Scientist Nanodegree](https://graduation.udacity.com/confirm/ZHLH4AAE)
 - [Udacity Machine Learning Engineer Nanodegree](https://graduation.udacity.com/confirm/PRYYR69M)
 - [Udacity Deep Learning Nanodegree](https://graduation.udacity.com/confirm/XKVJEVVR)
