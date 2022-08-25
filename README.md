@@ -20,6 +20,8 @@
 
 ## 🧗🏻 My Learning Achievements: 
 - [Udacity SQL Nanodegree](https://graduation.udacity.com/confirm/GAFFAGZP)
+  - Project-1: Created a report for the executive team on the topic of global & country-level deforestation by writing complex and advanced SQL queries. 
+  - Project-2: Investigated a poorly designed database and re-designed a new, normalised and performant database and migrated over data from the previous database.  
 - [Udacity Data Visualisation Nanodegree](https://graduation.udacity.com/confirm/AD44QHWJ)
 - [Udacity NLP Nanodegree](https://graduation.udacity.com/confirm/YSHK6MDV)
 - [Udacity Data Scientist Nanodegree](https://graduation.udacity.com/confirm/ZHLH4AAE)
