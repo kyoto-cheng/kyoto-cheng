@@ -15,3 +15,11 @@
 - [Custom SpaCy Model Deployment with AWS ECR, SageMaker, and Lambda](https://towardsdatascience.com/a-custom-spacy-model-deployment-with-aws-ecr-sagemaker-lambda-72a488fe58)
 - [Overview of Building a Merchant Name Cleaning Engine with SequenceMatcher and spaCy](https://towardsdatascience.com/an-overview-of-building-a-merchant-name-cleaning-engine-with-sequencematcher-and-spacy-9d8138b9aace)
 - [Quantum Physics Word Cloud from 1994 to 2009](https://towardsdatascience.com/lets-generate-a-quantum-physics-word-cloud-from-1994-to-2009-d53ee1bf4825)
+
+## 🧗🏻 My Learning Achievements: 
+- [Udacity SQL Nanodegree](https://graduation.udacity.com/confirm/GAFFAGZP)
+- [Udacity Data Visualisation Nanodegree](https://graduation.udacity.com/confirm/AD44QHWJ)
+- [Udacity NLP Nanodegree](https://graduation.udacity.com/confirm/YSHK6MDV)
+- [Udacity Data Scientist Nanodegree](https://graduation.udacity.com/confirm/ZHLH4AAE)
+- [Udacity Machine Learning Engineer Nanodegree](https://graduation.udacity.com/confirm/PRYYR69M)
+- [Udacity Deep Learning Nanodegree](https://graduation.udacity.com/confirm/XKVJEVVR)
