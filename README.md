@@ -24,7 +24,7 @@
 - [Udacity Machine Learning Engineer Nanodegree](https://graduation.udacity.com/confirm/PRYYR69M)
 - [Udacity Deep Learning Nanodegree](https://graduation.udacity.com/confirm/XKVJEVVR)
 
-## 🥷🏻 My Specialisations:
+## 🥷🏻 My Skill Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
