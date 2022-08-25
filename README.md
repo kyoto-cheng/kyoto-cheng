@@ -31,6 +31,8 @@
   - Project-3: Built a deep neural network end-to-end machine translation pipeline that accepts English text as input and return the French translation. 
   - Project-4: Built a deep neural network end-to-end automatic speech recognition (ASR) pipeline that accepts raw audio as input and returns a predicted transcription of the spoken language. 
 - [Udacity Data Scientist Nanodegree](https://graduation.udacity.com/confirm/ZHLH4AAE)
+  - Project-1: Created a machine learning pipeline that categorises real messages sent during disaster events into 36 categories that achieved an overall accuracy ~90%. 
+  - Project-2: Collected and analysed a real user-article interaction dataset from IBM Watson Studio Platform and improved the user-article recommendation rate to ~95% with Final Matrix Factorization algorithm. 
 - [Udacity Machine Learning Engineer Nanodegree](https://graduation.udacity.com/confirm/PRYYR69M)
 - [Udacity Deep Learning Nanodegree](https://graduation.udacity.com/confirm/XKVJEVVR)
 
