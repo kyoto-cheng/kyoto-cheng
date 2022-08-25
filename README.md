@@ -1,5 +1,5 @@
 ## Hi there, I'm Cheng 👋 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheng-zhang-carson/)
 
 - 🔭 I’m currently working as a data scientist at a Level39 Fintech startup based in London, UK. 
 - 🌱 I’m currently also a data science technical writer by creating my own blog post on Medium. 
