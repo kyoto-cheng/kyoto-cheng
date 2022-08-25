@@ -8,6 +8,7 @@
 
 ## 🧑🏻‍🌾 My Blog Posts: 
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+- [ML Web App for Stock Market Prediction From Daily News With Streamlit and Python](https://medium.com/swlh/build-a-ml-web-app-for-stock-market-prediction-from-daily-news-with-streamlit-and-python-7c4cf918d9b4)
 - [Design A Dynamic Data Dashboard with Tableau](https://towardsdatascience.com/design-a-dynamic-data-dashboard-with-tableau-e78cb91af212)
 - [Visualize Decrease in Arctic Sea Ice Extent with Flourish](https://towardsdatascience.com/a-visualization-of-decrease-in-arctic-sea-ice-extent-over-past-40-years-fb377bdf94a1)
 - [Generate Synthetic Dataset with the Synthetic Data Vault (SDV)](https://medium.com/geekculture/generate-synthetic-dataset-with-the-synthetic-data-vault-sdv-26b564b8fe15)
