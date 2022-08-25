@@ -38,6 +38,10 @@
   - Project-2: Built a plagiarism detector that examines a text file and performs binary classification by comparing containment and longest common subsequence with an accuracy of 96%. 
   - Project-3: Deployed a machine learning web app on Streamlit to predict the stock market sentiment with over ~2000 daily news headlines and reached a ~84% accuracy (fine-tuned random forest classifier) & 81% (baseline logistic regression model). 
 - [Udacity Deep Learning Nanodegree](https://graduation.udacity.com/confirm/XKVJEVVR)
+  - Project-1: Built a simple neural network and used it to predict daily bike rental ridership on a timeseries dataset.
+  - Project-2: Created a CNN to Classify Dog Breeds (using Transfer Learning VGG16) with an accuracy of 84%. 
+  - Project-3: Built a neural network (RNN & LSTM) that will generate a new ,"fake" TV script, based on patterns it recognizes in the training data.
+  - Project-4: Defined and trained a DCGAN on a dataset of faces to get a generator network and generate new images of faces that look as realistic as possible. 
 
 ## 🥷🏻 My Skill Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
