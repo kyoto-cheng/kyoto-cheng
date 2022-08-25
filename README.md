@@ -26,7 +26,10 @@
   - Project-1: Designed a Tableau dashboard which shows YoY performance in customer segmentation with different KPIs (Revenue, Profit, Profit ratio, etc).
   - Project-2: Created an animated data story and added an audio track for it to become a narrated Flourish story. 
 - [Udacity NLP Nanodegree](https://graduation.udacity.com/confirm/YSHK6MDV)
-  - Project-1:
+  - Project-1: Built a spam email classifier using Naive Bayes algorithm that achieves Accuracy score: 0.988, Precision score: 0.972, Recall score: 0.941.
+  - Project-2: Built a hidden Markov model for part of speech tagging with a universal tagset that achieves a test accuracy of 95.95%. 
+  - Project-3: Built a deep neural network end-to-end machine translation pipeline that accepts English text as input and return the French translation. 
+  - Project-4: Built a deep neural network end-to-end automatic speech recognition (ASR) pipeline that accepts raw audio as input and returns a predicted transcription of the spoken language. 
 - [Udacity Data Scientist Nanodegree](https://graduation.udacity.com/confirm/ZHLH4AAE)
 - [Udacity Machine Learning Engineer Nanodegree](https://graduation.udacity.com/confirm/PRYYR69M)
 - [Udacity Deep Learning Nanodegree](https://graduation.udacity.com/confirm/XKVJEVVR)
