@@ -2,15 +2,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheng-zhang-carson/)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-281%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 127 Contributions in the Year 2022
+> 🏆 128 Contributions in the Year 2022
  > 
 > 📦 91.1 kB Used in GitHub's Storage 
  > 
@@ -30,7 +26,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2022 10:44:58 UTC
+ Last Updated on 26/08/2022 11:06:13 UTC
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working as a data scientist at a Level39 Fintech startup based in London, UK. 
