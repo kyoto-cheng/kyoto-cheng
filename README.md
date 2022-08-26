@@ -1,6 +1,25 @@
 ## Hi there, I'm Cheng 👋 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheng-zhang-carson/)
 
+<!--START_SECTION:waka-->
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+<!--END_SECTION:waka-->
+
 - 🔭 I’m currently working as a data scientist at a Level39 Fintech startup based in London, UK. 
 - 🌱 I’m currently also a data science technical writer by creating my own blog post on Medium. 
 - 💂‍♀️ I’m proficient in data analysis, data modelling, data science, machine learning and natural language processing.
