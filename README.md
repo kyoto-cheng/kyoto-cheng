@@ -4,18 +4,6 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-281%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
-
-> 🏆 128 Contributions in the Year 2022
- > 
-> 📦 91.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
@@ -26,7 +14,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2022 11:06:13 UTC
+ Last Updated on 26/08/2022 11:44:00 UTC
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working as a data scientist at a Level39 Fintech startup based in London, UK. 
