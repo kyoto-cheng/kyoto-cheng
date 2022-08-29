@@ -53,7 +53,7 @@ Mac                      4 hrs 24 mins       ███████████�
 ```
 
 
- Last Updated on 28/08/2022 02:23:04 UTC
+ Last Updated on 29/08/2022 02:19:10 UTC
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working as a data scientist at a Level39 Fintech startup based in London, UK. 
