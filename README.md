@@ -75,15 +75,15 @@ Mac                      39 mins             ███████████�
 
 ## 🧗🏻 My Learning Achievements & Project Highlights: 
 - [Udacity SQL Nanodegree](https://graduation.udacity.com/confirm/GAFFAGZP)
-  - Project-1: Created a report for the executive team on the topic of global & country-level deforestation by writing complex and advanced SQL queries. 
-  - Project-2: Investigated a poorly designed database and re-designed a new, normalised and performant database and migrated over data from the previous database.  
+  - [Project-1](https://github.com/kyoto-cheng/SQL-Analyze-Deforestation): Created a report for the executive team on the topic of global & country-level deforestation by writing complex and advanced SQL queries. 
+  - [Project-2](https://github.com/kyoto-cheng/SQL-Design-New-PostgreSQL-Database): Investigated a poorly designed database and re-designed a new, normalised and performant database and migrated over data from the previous database.  
 - [Udacity Data Visualisation Nanodegree](https://graduation.udacity.com/confirm/AD44QHWJ)
-  - Project-1: Designed a Tableau dashboard which shows YoY performance in customer segmentation with different KPIs (Revenue, Profit, Profit ratio, etc).
-  - Project-2: Created an animated data story and added an audio track for it to become a narrated Flourish story. 
+  - [Project-1](https://medium.com/towards-data-science/design-a-dynamic-data-dashboard-with-tableau-e78cb91af212): Designed a Tableau dashboard which shows YoY performance in customer segmentation with different KPIs (Revenue, Profit, Profit ratio, etc).
+  - [Project-2](https://medium.com/towards-data-science/a-visualization-of-decrease-in-arctic-sea-ice-extent-over-past-40-years-fb377bdf94a1): Created an animated data story and added an audio track for it to become a narrated Flourish story. 
 - [Udacity NLP Nanodegree](https://graduation.udacity.com/confirm/YSHK6MDV)
-  - Project-1: Built a spam email classifier using Naive Bayes algorithm that achieves Accuracy score: 0.988, Precision score: 0.972, Recall score: 0.941.
+  - [Project-1](https://github.com/kyoto-cheng/Spam-Classifier-with-Naive-Bayes-Algorithm): Built a spam email classifier using Naive Bayes algorithm that achieves Accuracy score: 0.988, Precision score: 0.972, Recall score: 0.941.
   - Project-2: Built a hidden Markov model for part of speech tagging with a universal tagset that achieves a test accuracy of 95.95%. 
-  - Project-3: Built a deep neural network end-to-end machine translation pipeline that accepts English text as input and return the French translation. 
+  - [Project-3](https://github.com/kyoto-cheng/NLP-Machine-Learning-Translation): Built a deep neural network end-to-end machine translation pipeline that accepts English text as input and return the French translation. 
   - Project-4: Built a deep neural network end-to-end automatic speech recognition (ASR) pipeline that accepts raw audio as input and returns a predicted transcription of the spoken language. 
 - [Udacity Data Scientist Nanodegree](https://graduation.udacity.com/confirm/ZHLH4AAE)
   - Project-1: Created a machine learning pipeline that categorises real messages sent during disaster events into 36 categories that achieves an overall accuracy ~90%. 
