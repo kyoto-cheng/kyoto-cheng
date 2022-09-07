@@ -82,15 +82,14 @@ Mac                      39 mins             ███████████�
   - [Project-2](https://medium.com/towards-data-science/a-visualization-of-decrease-in-arctic-sea-ice-extent-over-past-40-years-fb377bdf94a1): Created an animated data story and added an audio track for it to become a narrated Flourish story. 
 - [Udacity NLP Nanodegree](https://graduation.udacity.com/confirm/YSHK6MDV)
   - [Project-1](https://github.com/kyoto-cheng/Spam-Classifier-with-Naive-Bayes-Algorithm): Built a spam email classifier using Naive Bayes algorithm that achieves Accuracy score: 0.988, Precision score: 0.972, Recall score: 0.941.
-  - Project-2: Built a hidden Markov model for part of speech tagging with a universal tagset that achieves a test accuracy of 95.95%. 
-  - [Project-3](https://github.com/kyoto-cheng/NLP-Machine-Learning-Translation): Built a deep neural network end-to-end machine translation pipeline that accepts English text as input and return the French translation. 
-  - Project-4: Built a deep neural network end-to-end automatic speech recognition (ASR) pipeline that accepts raw audio as input and returns a predicted transcription of the spoken language. 
+  - [Project-2](https://github.com/kyoto-cheng/Hidden-Markov-Model-for-Part-of-Speech-Tagging): Built a hidden Markov model for part of speech tagging with a universal tagset that achieves a test accuracy of 95.95%. 
+  - [Project-3](https://github.com/kyoto-cheng/NLP-Machine-Learning-Translation): Built a deep neural network end-to-end machine translation pipeline that accepts English text as input and return the French translation.  
 - [Udacity Data Scientist Nanodegree](https://graduation.udacity.com/confirm/ZHLH4AAE)
   - [Project-1](https://github.com/kyoto-cheng/Machine-Learning-On-Disaster-Response-Project): Created a machine learning pipeline that categorises real messages sent during disaster events into 36 categories that achieves an overall accuracy ~90%. 
   - [Project-2](https://github.com/kyoto-cheng/IBM-Articles-Recommendation-with-Machine-Learning): Collected and analysed a real user-article interaction dataset from IBM Watson Studio Platform and improves the user-article recommendation rate to ~95% with Final Matrix Factorization algorithm. 
 - [Udacity Machine Learning Engineer Nanodegree](https://graduation.udacity.com/confirm/PRYYR69M)
   - [Project-1](https://github.com/kyoto-cheng/LSTM-Sentiment-Analysis-with-AWS-SageMaker): Trained and deployed an XGBoost model on AWS SageMaker for IMDB movie review sentiment classification which meets ~85% accuracy.
-  - Project-2: Built a plagiarism detector that examines a text file and performs binary classification by comparing containment and longest common subsequence with an accuracy of 96%. 
+  - [Project-2](https://github.com/kyoto-cheng/NLP-On-Plagiarism-Detection): Built a plagiarism detector that examines a text file and performs binary classification by comparing containment and longest common subsequence with an accuracy of 96%. 
   - [Project-3](https://medium.com/swlh/build-a-ml-web-app-for-stock-market-prediction-from-daily-news-with-streamlit-and-python-7c4cf918d9b4): Deployed a machine learning web app on Streamlit to predict the stock market sentiment with over ~2000 daily news headlines and reached a ~84% accuracy (fine-tuned random forest classifier) & 81% (baseline logistic regression model). 
 - [Udacity Deep Learning Nanodegree](https://graduation.udacity.com/confirm/XKVJEVVR)
   - Project-1: Built a simple neural network and used it to predict daily bike rental ridership on a timeseries dataset.
