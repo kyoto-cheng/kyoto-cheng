@@ -2,39 +2,39 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheng-zhang-carson/)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-281%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 130 Contributions in the Year 2022
+> 🏆 137 Contributions in the Year 2022
  > 
-> 📦 91.2 kB Used in GitHub's Storage 
+> 📦 95.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    23 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
-🌆 Daytime    31 commits     ██████░░░░░░░░░░░░░░░░░░░   26.05% 
-🌃 Evening    60 commits     ████████████░░░░░░░░░░░░░   50.42% 
-🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
+🌞 Morning    25 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+🌆 Daytime    35 commits     ███████░░░░░░░░░░░░░░░░░░   28.0% 
+🌃 Evening    60 commits     ████████████░░░░░░░░░░░░░   48.0% 
+🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
-Tuesday      15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
-Wednesday    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.04% 
-Thursday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.13% 
-Friday       39 commits     ████████░░░░░░░░░░░░░░░░░   32.77% 
-Saturday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.92% 
-Sunday       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.13%
+Monday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+Tuesday      15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+Wednesday    12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.6% 
+Thursday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
+Friday       39 commits     ███████░░░░░░░░░░░░░░░░░░   31.2% 
+Saturday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.4% 
+Sunday       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.4%
 
 ```
 
@@ -45,15 +45,15 @@ Sunday       18 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 🔥 Editors: 
-Browser                  39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 07/09/2022 02:20:04 UTC
+ Last Updated on 08/09/2022 02:14:07 UTC
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working as a data scientist at a Level39 Fintech startup based in London, UK. 
