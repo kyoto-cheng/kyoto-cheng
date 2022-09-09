@@ -53,7 +53,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 08/09/2022 02:14:07 UTC
+ Last Updated on 09/09/2022 02:23:35 UTC
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working as a data scientist at a Level39 Fintech startup based in London, UK. 
