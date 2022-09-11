@@ -8,7 +8,7 @@
 
 > 🏆 146 Contributions in the Year 2022
  > 
-> 📦 116.1 kB Used in GitHub's Storage 
+> 📦 116.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,7 +53,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/09/2022 02:19:06 UTC
+ Last Updated on 11/09/2022 02:16:21 UTC
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working as a data scientist at a Level39 Fintech startup based in London, UK. 
