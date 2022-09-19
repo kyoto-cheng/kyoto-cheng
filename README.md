@@ -45,15 +45,15 @@ Sunday       18 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 🔥 Editors: 
-Browser                  5 hrs 45 mins       █████████████████████████   100.0%
+Browser                  6 hrs 29 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      5 hrs 45 mins       █████████████████████████   100.0%
+Mac                      6 hrs 29 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 18/09/2022 02:35:42 UTC
+ Last Updated on 19/09/2022 02:27:33 UTC
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working as a data scientist at a Level39 Fintech startup based in London, UK. 
