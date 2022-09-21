@@ -6,13 +6,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 171 Contributions in the Year 2022
+> 🏆 172 Contributions in the Year 2022
  > 
 > 📦 117.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -45,15 +45,15 @@ Sunday       18 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 🔥 Editors: 
-Browser                  7 hrs 4 mins        █████████████████████████   100.0%
+Browser                  4 hrs 21 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      7 hrs 4 mins        █████████████████████████   100.0%
+Mac                      4 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 20/09/2022 02:14:46 UTC
+ Last Updated on 21/09/2022 02:30:08 UTC
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working as a data scientist at a Level39 Fintech startup based in London, UK. 
