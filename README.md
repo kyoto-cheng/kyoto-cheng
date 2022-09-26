@@ -4,6 +4,11 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
+- 🔭 I’m currently working as a data scientist at a Level39 Fintech startup based in London, UK.
+- 🌱 I’m currently also a data science technical writer by creating my own blog post on Medium.
+- 💂‍♀️ I’m proficient in data analysis, data modelling, data science, machine learning and natural language processing.
+- 🧚‍♂️ Fun fact: I love reading books, playing badminton, basketball and tennis.
+
 **🐱 My GitHub Data** 
 
 > 🏆 172 Contributions in the Year 2022
@@ -55,11 +60,6 @@ Mac                      1 hr 27 mins        ███████████�
 
  Last Updated on 25/09/2022 02:23:40 UTC
 <!--END_SECTION:waka-->
-
-- 🔭 I’m currently working as a data scientist at a Level39 Fintech startup based in London, UK. 
-- 🌱 I’m currently also a data science technical writer by creating my own blog post on Medium. 
-- 💂‍♀️ I’m proficient in data analysis, data modelling, data science, machine learning and natural language processing.
-- 🧚‍♂️ Fun fact: I love reading books, playing badminton, basketball and tennis. 
 
 ## 🧑🏻‍🌾 My Blog Posts: 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kyoto-cheng)
