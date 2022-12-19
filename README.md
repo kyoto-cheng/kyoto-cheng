@@ -8,7 +8,7 @@
 
 > 🏆 173 Contributions in the Year 2022
  > 
-> 📦 117.7 kB Used in GitHub's Storage 
+> 📦 117.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,15 +45,15 @@ Sunday       18 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 🔥 Editors: 
-Browser                  44 hrs 38 mins      █████████████████████████   100.0%
+Browser                  43 hrs 44 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      44 hrs 38 mins      █████████████████████████   100.0%
+Mac                      43 hrs 44 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 18/12/2022 01:20:54 UTC
+ Last Updated on 19/12/2022 01:19:18 UTC
 <!--END_SECTION:waka-->
 
 ## 🧑🏻‍🌾 My Blog Posts: 
