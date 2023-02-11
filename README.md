@@ -45,15 +45,15 @@ Sunday          18 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  4 hrs               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs               █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 10/02/2023 01:29:43 UTC
+ Last Updated on 11/02/2023 01:21:04 UTC
 <!--END_SECTION:waka-->
 
 ## 🧑🏻‍🌾 My Blog Posts: 
