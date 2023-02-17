@@ -8,7 +8,7 @@
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 117.8 kB Used in GitHub's Storage 
+> 📦 117.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,15 +45,15 @@ Sunday          18 commits       ██░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 🔥 Editors: 
-Browser                  23 hrs 30 mins      █████████████████████████   100.00 % 
+Browser                  26 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      23 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 29 mins      █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 16/02/2023 01:28:44 UTC
+ Last Updated on 17/02/2023 01:36:17 UTC
 <!--END_SECTION:waka-->
 
 ## 🧑🏻‍🌾 My Blog Posts: 
