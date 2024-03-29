@@ -8,8 +8,6 @@
 
 > 📦 117.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 23 Public Repositories 
@@ -43,14 +41,14 @@ Sunday                   18 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 🔥 Editors: 
-Chrome                   9 hrs 48 mins       █████████████████████████   100.00 % 
+Chrome                   9 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 48 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/03/2024 01:05:20 UTC
+ Last Updated on 29/03/2024 01:05:29 UTC
 <!--END_SECTION:waka-->
 
 ## 🧑🏻‍🌾 My Blog Posts: 
