@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./assets/data-runner-poster.gif" alt="low-fi anime data engineer poster" width="430" />
-
-### Hi, I'm Cheng
-
-Data Engineer in FinTech, rebuilding my ML portfolio from a clean slate.
+<img src="./assets/profile-banner.png" alt="Cheng Zhang data engineer low-fi anime profile banner" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cheng%20Zhang-0B0D0E?style=for-the-badge&logo=linkedin&logoColor=00A6A6&labelColor=0B0D0E)](https://www.linkedin.com/in/cheng-zhang-carson/)
 [![Quest Board](https://img.shields.io/badge/Quest%20Board-ML--Projects-C85F05?style=for-the-badge&logo=github&logoColor=0B0D0E&labelColor=0B0D0E)](https://github.com/kyoto-cheng/ML-Projects)

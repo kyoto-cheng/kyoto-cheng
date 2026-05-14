@@ -27,7 +27,8 @@ will update every day with coding time, languages, editors, operating system, pr
 
 ## Visual Assets
 
-- `assets/data-runner-poster.gif` is the main low-fi anime data-runner profile artwork.
-- `assets/data-runner-poster.png` is the higher-quality source version of the same poster.
+- `assets/profile-banner.png` is the main GitHub profile banner with text on the left and the poster artwork as the background/right-side visual.
+- `assets/data-runner-poster.gif` is the low-fi anime data-runner poster artwork.
+- `assets/data-runner-poster.png` is the higher-quality source version of the poster.
 
 The visual direction is custom and uses the dark teal/orange print-poster palette without using official game artwork or borrowed anime GIFs.
