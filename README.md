@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./assets/guild-card.svg" alt="Cheng's field punk data poster" width="100%" />
-
-<br />
-
-<img src="./assets/data-runner.gif" alt="low-fi anime data runner" width="220" />
+<img src="./assets/data-runner-poster.gif" alt="low-fi anime data engineer poster" width="430" />
 
 ### Hi, I'm Cheng
 
@@ -22,7 +18,7 @@ Data Engineer in FinTech, rebuilding my ML portfolio from a clean slate.
 Name            Cheng Zhang
 Base camp       London, United Kingdom
 Class           Data Engineer / Data Scientist
-Current arc     Original ML projects, stronger MLOps, better storytelling
+Current arc     Original ML projects, stronger MLOps, sharper storytelling
 Main weapons    Python, SQL, Prefect, ADF, GCP, dbt
 Side quests     NLP, fraud detection, forecasting, useful dashboards
 ```
