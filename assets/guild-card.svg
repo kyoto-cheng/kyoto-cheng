@@ -1,79 +1,99 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
-  <title id="title">Cheng ML Hunter Guild Card</title>
-  <desc id="desc">A Monster-Hunter-inspired fantasy guild card for Cheng, focused on machine learning and data engineering.</desc>
+  <title id="title">Cheng's anime data hunter guild card</title>
+  <desc id="desc">An anime fantasy guild-card banner for Cheng, focused on data engineering and machine learning.</desc>
   <defs>
-    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#191724"/>
-      <stop offset="48%" stop-color="#1f1d2e"/>
-      <stop offset="100%" stop-color="#26233a"/>
+    <linearGradient id="night" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#15131f"/>
+      <stop offset="48%" stop-color="#24203a"/>
+      <stop offset="100%" stop-color="#33243c"/>
     </linearGradient>
-    <linearGradient id="gold" x1="0" x2="1">
+    <linearGradient id="moon" x1="0" x2="1">
+      <stop offset="0%" stop-color="#fff1c7"/>
+      <stop offset="55%" stop-color="#f6c177"/>
+      <stop offset="100%" stop-color="#eb6f92"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" x2="1">
       <stop offset="0%" stop-color="#f6c177"/>
       <stop offset="50%" stop-color="#ebbcba"/>
-      <stop offset="100%" stop-color="#f6c177"/>
+      <stop offset="100%" stop-color="#9ccfd8"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
     <style>
-      .small { font: 700 20px 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; fill: #e0def4; }
-      .tiny { font: 600 15px 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; fill: #908caa; }
-      .title { font: 900 58px 'Trebuchet MS', 'Arial Black', sans-serif; fill: url(#gold); letter-spacing: 1px; }
-      .subtitle { font: 700 22px 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; fill: #9ccfd8; }
-      .badge { fill: #eb6f92; }
-      .line { stroke: #f6c177; stroke-width: 2; opacity: .68; }
-      .spark { fill: #f6c177; opacity: .9; }
-      @keyframes drift {
-        0% { transform: translateX(-40px); opacity: .2; }
-        50% { opacity: .95; }
-        100% { transform: translateX(40px); opacity: .2; }
+      .name { font: 900 62px 'Trebuchet MS', 'Arial Black', sans-serif; fill: url(#name); letter-spacing: 1px; }
+      .subtitle { font: 800 22px 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; fill: #9ccfd8; }
+      .tiny { font: 700 15px 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; fill: #e0def4; opacity: .86; }
+      .label { font: 900 13px 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; fill: #f6c177; }
+      .line { stroke: #f6c177; stroke-width: 2; opacity: .7; }
+      .spark { fill: #f6c177; }
+      @keyframes floaty {
+        0%,100% { transform: translateY(0); opacity: .45; }
+        50% { transform: translateY(-12px); opacity: 1; }
+      }
+      @keyframes slash {
+        0% { transform: translateX(-42px); opacity: .12; }
+        50% { opacity: .8; }
+        100% { transform: translateX(42px); opacity: .12; }
       }
       @keyframes pulse {
         0%,100% { opacity: .45; }
         50% { opacity: 1; }
       }
-      .drift { animation: drift 6s ease-in-out infinite alternate; transform-origin: center; }
-      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+      .floaty { animation: floaty 4.8s ease-in-out infinite; transform-origin: center; }
+      .slash { animation: slash 3.2s ease-in-out infinite alternate; transform-origin: center; }
+      .pulse { animation: pulse 2s ease-in-out infinite; }
     </style>
   </defs>
 
-  <rect width="1200" height="420" rx="34" fill="url(#sky)"/>
-  <path d="M0 315 C170 250 270 340 430 285 C580 235 710 330 855 275 C1000 220 1110 260 1200 215 L1200 420 L0 420 Z" fill="#31748f" opacity=".35"/>
-  <path d="M0 350 C165 310 300 365 455 330 C610 295 760 365 930 315 C1050 280 1130 300 1200 270 L1200 420 L0 420 Z" fill="#eb6f92" opacity=".18"/>
-  <path d="M0 376 C190 350 330 395 505 360 C680 325 830 390 1010 350 C1115 326 1165 335 1200 315 L1200 420 L0 420 Z" fill="#000" opacity=".25"/>
+  <rect width="1200" height="420" rx="34" fill="url(#night)"/>
 
-  <g class="drift">
-    <circle class="spark" cx="120" cy="78" r="3"/>
-    <circle class="spark" cx="250" cy="125" r="2"/>
-    <circle class="spark" cx="720" cy="82" r="3"/>
-    <circle class="spark" cx="1020" cy="122" r="2.5"/>
-    <circle class="spark" cx="1085" cy="63" r="2"/>
+  <circle cx="986" cy="100" r="72" fill="url(#moon)" opacity=".92" filter="url(#softGlow)"/>
+  <circle cx="1012" cy="82" r="72" fill="#24203a" opacity=".68"/>
+
+  <path d="M0 312 C150 240 280 330 430 278 C590 220 708 328 858 274 C1000 223 1114 255 1200 210 L1200 420 L0 420 Z" fill="#31748f" opacity=".35"/>
+  <path d="M0 355 C165 310 312 372 470 334 C630 296 776 362 936 314 C1044 282 1132 300 1200 270 L1200 420 L0 420 Z" fill="#eb6f92" opacity=".17"/>
+  <path d="M0 382 C200 352 330 398 512 362 C705 325 852 391 1022 351 C1118 328 1170 338 1200 316 L1200 420 L0 420 Z" fill="#07070d" opacity=".5"/>
+
+  <g class="slash" opacity=".72">
+    <path d="M705 85 L1040 42" stroke="#9ccfd8" stroke-width="3"/>
+    <path d="M690 113 L1048 66" stroke="#f6c177" stroke-width="2"/>
+    <path d="M738 137 L1004 101" stroke="#ebbcba" stroke-width="2"/>
   </g>
 
-  <g transform="translate(62 58)">
-    <path class="line" d="M0 0 H210"/>
-    <path class="line" d="M0 300 H380"/>
-    <text class="tiny" x="0" y="36">GUILD CARD // LONDON BASE CAMP</text>
-    <text class="title" x="0" y="112">Cheng Zhang</text>
-    <text class="subtitle" x="4" y="154">Data Scientist &amp; Data Engineer</text>
-    <text class="small" x="4" y="205">HR 001  ·  Python / SQL / NLP / MLOps / AWS</text>
-    <text class="tiny" x="4" y="242">Quest: build original machine learning systems from a clean slate</text>
+  <g class="floaty">
+    <circle class="spark" cx="112" cy="68" r="3"/>
+    <circle class="spark" cx="258" cy="130" r="2"/>
+    <circle class="spark" cx="705" cy="78" r="3"/>
+    <circle class="spark" cx="1095" cy="155" r="2"/>
+    <path class="spark" d="M620 62 l5 12 12 5 -12 5 -5 12 -5 -12 -12 -5 12 -5z" opacity=".8"/>
   </g>
 
-  <g transform="translate(855 70)" filter="url(#glow)">
-    <path d="M125 0 L160 82 L250 90 L182 146 L202 235 L125 188 L48 235 L68 146 L0 90 L90 82 Z" fill="none" stroke="#f6c177" stroke-width="8"/>
-    <path d="M125 45 L146 96 L201 101 L160 136 L172 190 L125 162 L78 190 L90 136 L49 101 L104 96 Z" fill="#eb6f92" opacity=".82"/>
-    <path class="pulse" d="M125 74 L138 106 L173 109 L147 130 L155 164 L125 146 L95 164 L103 130 L77 109 L112 106 Z" fill="#f6c177"/>
+  <g transform="translate(60 54)">
+    <path class="line" d="M0 0 H230"/>
+    <text class="label" x="0" y="34">GUILD CARD // DATA HUNTER ARC</text>
+    <text class="name" x="0" y="112">Cheng Zhang</text>
+    <text class="subtitle" x="4" y="154">FinTech Data Engineer · ML Builder</text>
+    <text class="tiny" x="4" y="203">Python · SQL · Prefect · ADF · GCP · dbt · NLP</text>
+    <text class="tiny" x="4" y="238">Building useful pipelines, honest models, and cleaner stories from data.</text>
+    <path class="line" d="M0 294 H430"/>
   </g>
 
-  <g transform="translate(770 318)">
-    <rect x="0" y="0" width="338" height="44" rx="12" fill="#191724" opacity=".78"/>
-    <rect x="14" y="14" width="218" height="16" rx="8" fill="#403d52"/>
-    <rect x="14" y="14" width="152" height="16" rx="8" fill="#9ccfd8"/>
-    <text class="tiny" x="248" y="28">PROFILE QUEST 60%</text>
+  <g transform="translate(836 202)" filter="url(#softGlow)">
+    <path d="M126 0 L158 70 L232 78 L176 126 L194 199 L126 160 L58 199 L76 126 L20 78 L94 70 Z" fill="#191724" stroke="#f6c177" stroke-width="8"/>
+    <path d="M126 44 L143 82 L184 87 L153 113 L163 154 L126 132 L89 154 L99 113 L68 87 L109 82 Z" fill="#eb6f92"/>
+    <path class="pulse" d="M126 70 L136 94 L161 96 L142 112 L148 138 L126 124 L104 138 L110 112 L91 96 L116 94 Z" fill="#f6c177"/>
+  </g>
+
+  <g transform="translate(760 330)">
+    <rect x="0" y="0" width="362" height="48" rx="14" fill="#191724" opacity=".82"/>
+    <text class="label" x="18" y="20">CURRENT QUEST</text>
+    <rect x="18" y="28" width="230" height="10" rx="5" fill="#403d52"/>
+    <rect x="18" y="28" width="138" height="10" rx="5" fill="#9ccfd8"/>
+    <text class="tiny" x="264" y="36">Portfolio rebuild</text>
   </g>
 </svg>
