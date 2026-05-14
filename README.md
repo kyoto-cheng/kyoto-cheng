@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="./assets/guild-card.svg" alt="Cheng's anime data hunter guild card" width="100%" />
+<img src="./assets/guild-card.svg" alt="Cheng's field punk data poster" width="100%" />
 
-### Hi, I'm Cheng ✨
+### Hi, I'm Cheng
 
 Data Engineer in FinTech, rebuilding my ML portfolio from a clean slate.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cheng%20Zhang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheng-zhang-carson/)
-[![Quest Board](https://img.shields.io/badge/Quest%20Board-ML--Projects-F6C177?style=for-the-badge&logo=github&logoColor=16161E)](https://github.com/kyoto-cheng/ML-Projects)
-[![London](https://img.shields.io/badge/London-UK-9CCFD8?style=for-the-badge&logo=googlemaps&logoColor=16161E)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cheng%20Zhang-0B0D0E?style=for-the-badge&logo=linkedin&logoColor=00A6A6&labelColor=0B0D0E)](https://www.linkedin.com/in/cheng-zhang-carson/)
+[![Quest Board](https://img.shields.io/badge/Quest%20Board-ML--Projects-C85F05?style=for-the-badge&logo=github&logoColor=0B0D0E&labelColor=0B0D0E)](https://github.com/kyoto-cheng/ML-Projects)
+[![London](https://img.shields.io/badge/London-UK-007F7A?style=for-the-badge&logo=googlemaps&logoColor=0B0D0E&labelColor=0B0D0E)](#)
 
 </div>
 
-## 🗡️ Guild Card
+## Field Card / 旅团卡
 
 ```text
 Name            Cheng Zhang
@@ -23,48 +23,48 @@ Main weapons    Python, SQL, Prefect, ADF, GCP, dbt
 Side quests     NLP, fraud detection, forecasting, useful dashboards
 ```
 
-I like building data systems that survive contact with production: pipelines with checks, dashboards people actually use, migrations with runbooks, and ML work that explains its tradeoffs instead of waving a magic wand.
+I like building data systems that survive contact with production: pipelines with checks, dashboards people actually use, migrations with runbooks, and ML work that explains its tradeoffs clearly.
 
-## 🧭 Quest Log
+## Quest Log / 任务板
 
 | Quest | Progress | Notes |
 | --- | --- | --- |
-| 🏦 FinTech data pipelines | ████████████████████ 100% | ADF, Prefect, SQL validation, SFTP reconciliation |
-| ☁️ Cloud migration | ████████████████░░░░ 80% | GCP, BigQuery, Dataform, Dataflow, schema alignment |
-| 🧪 Original ML portfolio | ████░░░░░░░░░░░░░░░░ 20% | Fresh repo created, project ideas next |
-| ⏱️ Daily coding telemetry | ████████████░░░░░░░░ 60% | GitHub widgets live, WakaTime secret pending |
+| PIPELINE | ████████████████████ 100% | ADF, Prefect, SQL validation, SFTP reconciliation |
+| CLOUD MIGRATION | ████████████████░░░░ 80% | GCP, BigQuery, Dataform, Dataflow, schema alignment |
+| ML PORTFOLIO | ████░░░░░░░░░░░░░░░░ 20% | Fresh repo created, project ideas next |
+| DAILY TELEMETRY | ████████████░░░░░░░░ 60% | GitHub widgets live, WakaTime secret pending |
 
-## 🧰 Loadout
+## Loadout / 装备栏
 
 **Data engineering**
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white" />
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dataform-5F6368?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dataflow-AECBFA?style=for-the-badge&logo=googlecloud&logoColor=16161E" />
-  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0B0D0E?style=for-the-badge&logo=postgresql&logoColor=00A6A6&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/Python-0B0D0E?style=for-the-badge&logo=python&logoColor=C85F05&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/Prefect-007F7A?style=for-the-badge&logo=prefect&logoColor=F1E3C6&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/dbt-C85F05?style=for-the-badge&logo=dbt&logoColor=0B0D0E&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/ADF-007F7A?style=for-the-badge&logo=microsoftazure&logoColor=F1E3C6&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0B0D0E?style=for-the-badge&logo=azuredevops&logoColor=00A6A6&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/GCP-0B0D0E?style=for-the-badge&logo=googlecloud&logoColor=C85F05&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/BigQuery-007F7A?style=for-the-badge&logo=googlebigquery&logoColor=F1E3C6&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/Dataform-0B0D0E?style=for-the-badge&logo=googlecloud&logoColor=00A6A6&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/Dataflow-C85F05?style=for-the-badge&logo=googlecloud&logoColor=0B0D0E&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/Metabase-007F7A?style=for-the-badge&logo=metabase&logoColor=F1E3C6&labelColor=0B0D0E" />
 </p>
 
 **Machine learning**
 
 <p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NetworkX-FFB000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=16161E" />
-  <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-9CCFD8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-C85F05?style=for-the-badge&logo=scikitlearn&logoColor=0B0D0E&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/NLTK-0B0D0E?style=for-the-badge&logoColor=00A6A6&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/spaCy-007F7A?style=for-the-badge&logoColor=F1E3C6&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/NetworkX-C85F05?style=for-the-badge&logoColor=0B0D0E&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/SageMaker-0B0D0E?style=for-the-badge&logo=amazonaws&logoColor=C85F05&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/API%20Gateway-007F7A?style=for-the-badge&logo=amazonapigateway&logoColor=F1E3C6&labelColor=0B0D0E" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-C85F05?style=for-the-badge&logoColor=0B0D0E&labelColor=0B0D0E" />
 </p>
 
-## 📜 Stack So Far
+## Stack So Far / 技能路线
 
 - **Pipeline orchestration**: Prefect, Azure Data Factory, Blob Storage, SFTP workflows, production runbooks, and data quality checks.
 - **Warehouse and migration work**: SQL, BigQuery, Dataform, Dataflow, schema alignment, validation dashboards, and large-table migration support.
@@ -72,24 +72,24 @@ I like building data systems that survive contact with production: pipelines wit
 - **ML and NLP**: scikit-learn, NLTK, spaCy, SageMaker, API Gateway, transaction enrichment, anomaly detection, forecasting, and fraud-link analysis with NetworkX.
 - **Engineering habits**: Azure DevOps, Git, CI/CD, modular SQL with dbt, technical documentation, and cross-functional data collaboration.
 
-## 📈 Guild Stats
+## Signal Board / 数据看板
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kyoto-cheng&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoto-cheng&layout=compact&theme=rose_pine&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kyoto-cheng&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B0D0E&title_color=C85F05&text_color=F1E3C6&icon_color=00A6A6" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoto-cheng&layout=compact&hide_border=true&langs_count=8&bg_color=0B0D0E&title_color=C85F05&text_color=F1E3C6" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=kyoto-cheng&theme=rose-pine&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=kyoto-cheng&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0B0D0E&stroke=007F7A&ring=C85F05&fire=C85F05&currStreakNum=F1E3C6&sideNums=F1E3C6&currStreakLabel=00A6A6&sideLabels=00A6A6&dates=8A8170" alt="GitHub streak" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyoto-cheng&theme=rose-pine&hide_border=true&area=true&custom_title=Hunt%20Log%20%2F%20Contribution%20Trail" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kyoto-cheng&hide_border=true&area=true&bg_color=0B0D0E&color=F1E3C6&line=00A6A6&point=C85F05&area_color=007F7A&title_color=C85F05&custom_title=Signal%20Trail%20%2F%20Contribution%20Log" alt="Contribution activity graph" />
 
 </div>
 
-## ⏱️ Daily Hunt Log
+## Daily Log / 每日记录
 
 <!--START_SECTION:waka-->
 ```text
@@ -98,7 +98,7 @@ Add the WAKATIME_API_KEY repository secret, then run the workflow once.
 ```
 <!--END_SECTION:waka-->
 
-## 🏕️ Base Camp
+## Base Camp / 新项目营地
 
 My new original projects live here:
 

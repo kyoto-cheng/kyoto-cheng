@@ -27,7 +27,6 @@ will update every day with coding time, languages, editors, operating system, pr
 
 ## Visual Assets
 
-- `assets/guild-card.svg` is a custom anime fantasy guild-card banner.
-- `assets/hunter-sigil.gif` is a tiny generated animated GIF used as profile flair.
+- `assets/guild-card.svg` is a custom dark field-punk/anime poster banner inspired by black print texture, teal clothing, and orange lettering.
 
-Both assets are custom and intentionally avoid official game artwork or borrowed anime GIFs.
+The visual direction is custom and intentionally avoids official game artwork or borrowed anime GIFs.
