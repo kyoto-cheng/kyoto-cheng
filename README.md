@@ -64,12 +64,13 @@ I like building data systems that survive contact with production: pipelines wit
   <img src="https://img.shields.io/badge/Machine%20Learning-9CCFD8?style=for-the-badge" />
 </p>
 
-## 📜 Story So Far
+## 📜 Stack So Far
 
-- **Data Engineer @ Allica Bank**: own production data workflows for digital channels, online banking data, Ping logs, SFTP reconciliation, and migration validation.
-- **Junior Data Engineer @ Allica Bank**: built ETL/ELT pipelines with ADF, Blob Storage, Prefect, Azure DevOps, early dbt proof-of-concepts, ERDs, and data dictionaries.
-- **Junior Data Scientist @ Sync.money**: built NLP pipelines with NLTK/spaCy for financial transaction enrichment, deployed models on SageMaker/API Gateway, and explored fraud links with NetworkX.
-- **Data Science Intern @ Sync.money**: prototyped synthetic personas, anomaly detection, cash-flow forecasting, and credit-risk segmentation ideas.
+- **Pipeline orchestration**: Prefect, Azure Data Factory, Blob Storage, SFTP workflows, production runbooks, and data quality checks.
+- **Warehouse and migration work**: SQL, BigQuery, Dataform, Dataflow, schema alignment, validation dashboards, and large-table migration support.
+- **Analytics layer**: Metabase dashboards, pipeline health monitoring, business metrics, ERDs, data dictionaries, and lineage documentation.
+- **ML and NLP**: scikit-learn, NLTK, spaCy, SageMaker, API Gateway, transaction enrichment, anomaly detection, forecasting, and fraud-link analysis with NetworkX.
+- **Engineering habits**: Azure DevOps, Git, CI/CD, modular SQL with dbt, technical documentation, and cross-functional data collaboration.
 
 ## 📈 Guild Stats
 
