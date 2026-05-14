@@ -28,5 +28,6 @@ will update every day with coding time, languages, editors, operating system, pr
 ## Visual Assets
 
 - `assets/guild-card.svg` is a custom dark field-punk/anime poster banner inspired by black print texture, teal clothing, and orange lettering.
+- `assets/data-runner.gif` is a locally generated low-fi anime data-runner character in the same palette.
 
 The visual direction is custom and intentionally avoids official game artwork or borrowed anime GIFs.

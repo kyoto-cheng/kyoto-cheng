@@ -14,95 +14,67 @@
       <feDisplacementMap in="SourceGraphic" in2="noise" scale="2.6"/>
     </filter>
     <style>
-      .outline { stroke: #050606; stroke-width: 9; stroke-linecap: round; stroke-linejoin: round; }
-      .inkline { stroke: #050606; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; fill: none; }
-      .creamline { stroke: #f1e3c6; stroke-width: 2.4; stroke-linecap: round; fill: none; opacity: .82; }
-      .titleText { font: 900 78px Impact, 'Arial Black', sans-serif; fill: #c85f05; letter-spacing: 2px; }
-      .subText { font: 800 22px 'Trebuchet MS', Arial, sans-serif; fill: #f1e3c6; letter-spacing: 1px; }
-      .mono { font: 800 16px 'Courier New', monospace; fill: #00a6a6; letter-spacing: 1px; }
+      .titleText { font: 900 82px Impact, 'Arial Black', sans-serif; fill: #c85f05; letter-spacing: 2px; }
+      .subText { font: 800 24px 'Trebuchet MS', Arial, sans-serif; fill: #f1e3c6; letter-spacing: 1px; }
+      .mono { font: 800 17px 'Courier New', monospace; fill: #00a6a6; letter-spacing: 1px; }
       .tag { font: 900 18px 'Courier New', monospace; fill: #050606; }
-      @keyframes bob {
-        0%, 100% { transform: translateY(0) rotate(-1deg); }
-        50% { transform: translateY(-7px) rotate(1deg); }
-      }
-      @keyframes cableSwing {
-        0%, 100% { transform: rotate(-4deg); }
-        50% { transform: rotate(5deg); }
-      }
       @keyframes scan {
-        0% { transform: translateX(-80px); opacity: .12; }
-        50% { opacity: .55; }
-        100% { transform: translateX(80px); opacity: .12; }
+        0% { transform: translateX(-70px); opacity: .16; }
+        50% { opacity: .52; }
+        100% { transform: translateX(70px); opacity: .16; }
       }
-      .runner { animation: bob 4.6s ease-in-out infinite; transform-origin: 900px 250px; }
-      .cable { animation: cableSwing 4s ease-in-out infinite; transform-origin: 834px 86px; }
+      @keyframes cable {
+        0%, 100% { transform: rotate(-3deg); }
+        50% { transform: rotate(4deg); }
+      }
       .scan { animation: scan 5.5s ease-in-out infinite alternate; }
+      .cable { animation: cable 4s ease-in-out infinite; transform-origin: 865px 80px; }
     </style>
   </defs>
 
   <rect width="1200" height="430" fill="#070808"/>
-  <rect width="1200" height="430" filter="url(#paperNoise)" opacity=".9"/>
-  <path d="M0 372 C190 335 348 398 520 350 C720 294 895 380 1200 310 L1200 430 L0 430 Z" fill="#081d1b"/>
-  <path d="M0 390 C190 360 330 408 520 378 C700 348 890 405 1200 356 L1200 430 L0 430 Z" fill="#0d1212"/>
+  <rect width="1200" height="430" filter="url(#paperNoise)" opacity=".95"/>
+  <path d="M0 370 C190 332 350 396 520 350 C720 295 895 380 1200 310 L1200 430 L0 430 Z" fill="#081d1b"/>
+  <path d="M0 392 C190 360 330 410 520 378 C700 348 890 405 1200 356 L1200 430 L0 430 Z" fill="#0d1212"/>
 
-  <g class="scan" opacity=".55">
-    <path d="M82 86 H1076" stroke="#007f7a" stroke-width="2"/>
-    <path d="M132 121 H922" stroke="#c85f05" stroke-width="2"/>
-    <path d="M92 303 H1120" stroke="#007f7a" stroke-width="2"/>
+  <g class="scan">
+    <path d="M70 86 H1110" stroke="#007f7a" stroke-width="2"/>
+    <path d="M128 122 H980" stroke="#c85f05" stroke-width="2"/>
+    <path d="M96 306 H1130" stroke="#007f7a" stroke-width="2"/>
   </g>
 
   <g transform="translate(62 72)" filter="url(#roughInk)">
     <text class="mono" x="0" y="0">FIELD DATA CLUB // LONDON</text>
-    <text class="titleText" x="0" y="88">CHENG</text>
-    <text class="titleText" x="0" y="164">ZHANG</text>
-    <path d="M6 184 H520" stroke="#c85f05" stroke-width="13" stroke-linecap="round"/>
-    <text class="subText" x="2" y="232">DATA ENGINEER / ML BUILDER</text>
-    <text class="mono" x="4" y="270">PYTHON · SQL · PREFECT · ADF · GCP · DBT</text>
-    <text class="mono" x="4" y="303">NLP · FRAUD SIGNALS · FORECASTING · DASHBOARDS</text>
-    <g transform="translate(4 326)">
-      <rect width="370" height="42" rx="0" fill="#c85f05"/>
+    <text class="titleText" x="0" y="94">CHENG</text>
+    <text class="titleText" x="0" y="176">ZHANG</text>
+    <path d="M6 196 H560" stroke="#c85f05" stroke-width="14" stroke-linecap="round"/>
+    <text class="subText" x="2" y="246">DATA ENGINEER / ML BUILDER</text>
+    <text class="mono" x="4" y="286">PYTHON · SQL · PREFECT · ADF · GCP · DBT</text>
+    <text class="mono" x="4" y="320">NLP · FRAUD SIGNALS · FORECASTING · DASHBOARDS</text>
+    <g transform="translate(4 346)">
+      <rect width="390" height="42" rx="0" fill="#c85f05"/>
       <text class="tag" x="18" y="27">NEW PROJECTS FROM SCRATCH</text>
     </g>
   </g>
 
-  <g transform="translate(720 40)" filter="url(#roughInk)">
-    <path class="cable creamline" d="M122 12 C52 58 52 116 103 160 C155 205 140 270 76 334"/>
-    <circle cx="124" cy="12" r="17" fill="#c85f05" stroke="#050606" stroke-width="6"/>
-    <path d="M123 1 C118 14 120 22 129 28" stroke="#050606" stroke-width="2" fill="none"/>
+  <g transform="translate(770 58)" filter="url(#roughInk)">
+    <path class="cable" d="M96 0 C34 45 30 104 78 148 C132 198 113 268 54 332" stroke="#f1e3c6" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle cx="98" cy="0" r="18" fill="#c85f05" stroke="#050606" stroke-width="6"/>
+    <path d="M98 -11 C92 2 95 11 104 16" stroke="#050606" stroke-width="2" fill="none"/>
   </g>
 
-  <g transform="translate(740 72)" filter="url(#roughInk)">
-  <g class="runner">
-    <path d="M119 8 L151 55 L202 45 L175 88 L205 126 L155 124 L119 164 L84 124 L35 126 L64 88 L38 45 L88 55 Z" fill="#007f7a" stroke="#050606" stroke-width="8" stroke-linejoin="round"/>
-    <circle cx="118" cy="112" r="42" fill="#d8b69b" stroke="#050606" stroke-width="8"/>
-    <path d="M74 99 C92 75 144 74 162 99" class="inkline"/>
-    <circle cx="98" cy="106" r="19" fill="#0b0d0e" stroke="#f1e3c6" stroke-width="6"/>
-    <circle cx="142" cy="106" r="19" fill="#0b0d0e" stroke="#f1e3c6" stroke-width="6"/>
-    <circle cx="101" cy="106" r="5" fill="#00a6a6"/>
-    <circle cx="145" cy="106" r="5" fill="#00a6a6"/>
-    <path d="M84 134 C103 151 139 150 156 134" class="inkline"/>
-
-    <path d="M66 159 L178 159 L205 256 L32 256 Z" fill="#007f7a" stroke="#050606" stroke-width="10" stroke-linejoin="round"/>
-    <path d="M51 185 C4 205 -18 235 -32 282" stroke="#007f7a" stroke-width="29" stroke-linecap="round"/>
-    <path d="M187 185 C233 202 263 230 284 270" stroke="#007f7a" stroke-width="29" stroke-linecap="round"/>
-    <path d="M56 203 H188" stroke="#c85f05" stroke-width="15"/>
-    <path d="M86 161 L44 254" class="inkline"/>
-    <path d="M154 160 L196 254" class="inkline"/>
-
-    <path d="M57 254 L26 334 L96 334 L116 254 Z" fill="#007f7a" stroke="#050606" stroke-width="10" stroke-linejoin="round"/>
-    <path d="M172 254 L200 334 L270 334 L231 254 Z" fill="#007f7a" stroke="#050606" stroke-width="10" stroke-linejoin="round"/>
-    <path d="M18 333 H120" stroke="#007f7a" stroke-width="39" stroke-linecap="round"/>
-    <path d="M188 333 H302" stroke="#007f7a" stroke-width="39" stroke-linecap="round"/>
-    <path d="M31 286 H103" stroke="#c85f05" stroke-width="12"/>
-    <path d="M197 286 H258" stroke="#c85f05" stroke-width="12"/>
-    <path d="M26 333 l42 16 l47 -9" class="inkline"/>
-    <path d="M194 333 l41 16 l58 -8" class="inkline"/>
-
-    <path d="M34 161 L6 84 L-16 91 L6 176 Z" fill="#f1e3c6" stroke="#050606" stroke-width="8" stroke-linejoin="round"/>
-    <path d="M-6 88 C-30 118 -32 155 -18 194" class="creamline"/>
-    <path d="M214 249 C247 266 279 266 317 250" class="creamline"/>
-    <circle cx="318" cy="248" r="20" fill="none" stroke="#f1e3c6" stroke-width="3"/>
-    <text x="311" y="256" font-family="'Courier New', monospace" font-size="24" font-weight="900" fill="#f1e3c6">!</text>
-  </g>
+  <g transform="translate(782 135)" opacity=".92" filter="url(#roughInk)">
+    <circle cx="80" cy="44" r="38" fill="none" stroke="#f1e3c6" stroke-width="8"/>
+    <circle cx="155" cy="44" r="38" fill="none" stroke="#f1e3c6" stroke-width="8"/>
+    <path d="M115 44 H122" stroke="#f1e3c6" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="80" cy="44" r="13" fill="#00a6a6"/>
+    <circle cx="155" cy="44" r="13" fill="#00a6a6"/>
+    <path d="M22 175 C76 136 175 137 232 176" stroke="#007f7a" stroke-width="30" fill="none" stroke-linecap="round"/>
+    <path d="M35 232 H250" stroke="#007f7a" stroke-width="44" stroke-linecap="round"/>
+    <path d="M66 222 l54 18 l74 -12" stroke="#050606" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <path d="M66 262 l54 18 l74 -12" stroke="#050606" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <path d="M50 170 H236" stroke="#c85f05" stroke-width="14"/>
+    <circle cx="292" cy="169" r="22" fill="none" stroke="#f1e3c6" stroke-width="3"/>
+    <text x="285" y="177" font-family="'Courier New', monospace" font-size="24" font-weight="900" fill="#f1e3c6">!</text>
   </g>
 </svg>

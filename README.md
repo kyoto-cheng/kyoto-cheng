@@ -2,6 +2,10 @@
 
 <img src="./assets/guild-card.svg" alt="Cheng's field punk data poster" width="100%" />
 
+<br />
+
+<img src="./assets/data-runner.gif" alt="low-fi anime data runner" width="220" />
+
 ### Hi, I'm Cheng
 
 Data Engineer in FinTech, rebuilding my ML portfolio from a clean slate.
@@ -12,7 +16,7 @@ Data Engineer in FinTech, rebuilding my ML portfolio from a clean slate.
 
 </div>
 
-## Field Card / 旅团卡
+## Field Card
 
 ```text
 Name            Cheng Zhang
@@ -25,7 +29,7 @@ Side quests     NLP, fraud detection, forecasting, useful dashboards
 
 I like building data systems that survive contact with production: pipelines with checks, dashboards people actually use, migrations with runbooks, and ML work that explains its tradeoffs clearly.
 
-## Quest Log / 任务板
+## Quest Log
 
 | Quest | Progress | Notes |
 | --- | --- | --- |
@@ -34,7 +38,7 @@ I like building data systems that survive contact with production: pipelines wit
 | ML PORTFOLIO | ████░░░░░░░░░░░░░░░░ 20% | Fresh repo created, project ideas next |
 | DAILY TELEMETRY | ████████████░░░░░░░░ 60% | GitHub widgets live, WakaTime secret pending |
 
-## Loadout / 装备栏
+## Loadout
 
 **Data engineering**
 
@@ -64,7 +68,7 @@ I like building data systems that survive contact with production: pipelines wit
   <img src="https://img.shields.io/badge/Machine%20Learning-C85F05?style=for-the-badge&logoColor=0B0D0E&labelColor=0B0D0E" />
 </p>
 
-## Stack So Far / 技能路线
+## Stack So Far
 
 - **Pipeline orchestration**: Prefect, Azure Data Factory, Blob Storage, SFTP workflows, production runbooks, and data quality checks.
 - **Warehouse and migration work**: SQL, BigQuery, Dataform, Dataflow, schema alignment, validation dashboards, and large-table migration support.
@@ -72,7 +76,7 @@ I like building data systems that survive contact with production: pipelines wit
 - **ML and NLP**: scikit-learn, NLTK, spaCy, SageMaker, API Gateway, transaction enrichment, anomaly detection, forecasting, and fraud-link analysis with NetworkX.
 - **Engineering habits**: Azure DevOps, Git, CI/CD, modular SQL with dbt, technical documentation, and cross-functional data collaboration.
 
-## Signal Board / 数据看板
+## Signal Board
 
 <div align="center">
 
@@ -89,7 +93,7 @@ I like building data systems that survive contact with production: pipelines wit
 
 </div>
 
-## Daily Log / 每日记录
+## Daily Log
 
 <!--START_SECTION:waka-->
 ```text
@@ -98,7 +102,7 @@ Add the WAKATIME_API_KEY repository secret, then run the workflow once.
 ```
 <!--END_SECTION:waka-->
 
-## Base Camp / 新项目营地
+## Base Camp
 
 My new original projects live here:
 
