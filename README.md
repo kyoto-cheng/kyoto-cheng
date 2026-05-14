@@ -2,10 +2,6 @@
 
 <img src="./assets/guild-card.svg" alt="Cheng's anime data hunter guild card" width="100%" />
 
-<br />
-
-<img src="./assets/hunter-sigil.gif" alt="animated guild sigil" width="96" />
-
 ### Hi, I'm Cheng ✨
 
 Data Engineer in FinTech, rebuilding my ML portfolio from a clean slate.
